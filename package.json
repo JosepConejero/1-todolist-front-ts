@@ -49,7 +49,8 @@
       "!src/**/*.test.js",
       "!src/**/*.test.ts",
       "!src/**/*.test.tsx",
-      "!src/index.tsx"
+      "!src/index.tsx",
+      "!setupTests.ts"
     ]
   }
 }
